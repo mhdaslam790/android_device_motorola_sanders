@@ -254,3 +254,6 @@ ro.vendor.gt_library=libqti-gt.so
 telephony.lteOnGsmDevice=1 
 ro.telephony.default_network=9
 ro.ril.def.preferred.network=9
+ 
+persist.volte_enabled_by_hw=1
+persist.dbg.volte_avail_ovr=1
